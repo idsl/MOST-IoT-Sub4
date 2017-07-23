@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+    <!--<TextView-->
+            <!--android:id="@+id/sensor_auth"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginStart="@dimen/activity_horizontal_margin"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_toEndOf="@id/text_key"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:layout_below="@+id/sensor_name"-->
+            <!--android:text="no connect" />-->
+
+    <!--<TextView-->
+            <!--android:id="@+id/sensor_value2"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginStart="@dimen/activity_horizontal_margin"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_toEndOf="@id/text_key"-->
+            <!--android:layout_below="@+id/sensor_value1"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:text="0" />-->
+    <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center_vertical|start"-->
+            <!--android:id="@+id/label_sensor_auth"-->
+            <!--android:text="Authentication: "-->
+            <!--android:layout_below="@+id/label_sensor_name"/>-->
+    <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center_vertical|start"-->
+            <!--android:text="Sensor Temperature: "-->
+            <!--android:layout_below="@+id/label_sensor_auth"-->
+            <!--android:id="@+id/label_sensor_value1"/>-->
+    <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center_vertical|start"-->
+            <!--android:text="Sensor Name: "-->
+            <!--android:id="@+id/label_sensor_name" android:layout_alignParentTop="true"-->
+            <!--android:layout_alignParentStart="true"/>-->
+    <!--<TextView-->
+            <!--android:id="@+id/label_sensor_value2"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center_vertical|start"-->
+            <!--android:text="Sensor Humidity: "-->
+            <!--android:layout_below="@+id/label_sensor_value1"/>-->
+    <!--<TextView-->
+            <!--android:id="@+id/sensor_value1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginStart="@dimen/activity_horizontal_margin"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_below="@id/sensor_auth"-->
+            <!--android:gravity="center_vertical"-->
+
+            <!--android:text="0" />-->
+    <!--<TextView-->
+            <!--android:id="@+id/sensor_name"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center_vertical|start"-->
+            <!--android:text="null"-->
+            <!--android:layout_alignParentTop="true" android:layout_alignParentEnd="true"/>-->
+
+    <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center_vertical|start"-->
+            <!--android:text="Authentication Time: "-->
+            <!--android:layout_below="@+id/label_sensor_value2"/>-->
+    <!--<TextView-->
+            <!--android:id="@+id/sensor_auth_time"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginStart="@dimen/activity_horizontal_margin"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_below="@id/sensor_value2"-->
+            <!--android:gravity="center_vertical"-->
+
+            <!--android:text="0" />-->
+
+</RelativeLayout>

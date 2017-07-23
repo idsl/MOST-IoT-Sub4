@@ -1,0 +1,1 @@
+# MOST IoT M2M Authentication Algorithm

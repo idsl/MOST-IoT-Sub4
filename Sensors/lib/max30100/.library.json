@@ -1,0 +1,32 @@
+{
+    "name": "MAX30100lib", 
+    "repository": {
+        "url": "https://github.com/oxullo/Arduino-MAX30100", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "atmelavr"
+    ], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "1.1.0", 
+    "authors": [
+        {
+            "maintainer": true, 
+            "name": "OXullo Intersecans", 
+            "url": "https://github.com/oxullo/", 
+            "email": "x@brainrapers.org"
+        }
+    ], 
+    "keywords": [
+        "max30100", 
+        "spo2", 
+        "pulse", 
+        "oximetry", 
+        "i2c", 
+        "sensor"
+    ], 
+    "id": 370, 
+    "description": "Maxim-IC MAX30100 heart-rate sensor driver and pulse-oximetry components"
+}
